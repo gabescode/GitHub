@@ -1,5 +1,11 @@
-title{
-  padding: 20px;
-  margin: auto;
-  color: black;
+body{
+  padding: 10px;
+
+  font: 'quicksand' helvetica;
+}
+button{
+  background-color: lightblue;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 10px;
 }
